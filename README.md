@@ -1,6 +1,4 @@
 # dylan_net1500
-# A first-level heading
-## A second-level heading
 Lambda, in the context of cloud computing, refers to AWS Lambda, a serverless computing service provided by Amazon Web Services. It enables you to run code without provisioning or managing servers, handling everything from infrastructure scaling to administration. Developers can upload their code, and Lambda automatically executes it in response to various triggers, such as HTTP requests, changes to data in a DynamoDB table, or events from other AWS services.
 
 SQS stands for Simple Queue Service, another AWS offering. It's a fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications. SQS allows you to send, store, and receive messages between software components at any volume, without losing messages or requiring other services to be available. It's particularly useful for asynchronous communication and building resilient systems.
